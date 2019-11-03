@@ -5,7 +5,11 @@ target/
 !**/src/test/**
 
 node_modules/**
-todo.db.*
+todo.db.lck
+todo.db.log
+todo.db.properties
+todo.db.script
+todo.db.tmp
 
 ### STS ###
 .apt_generated
