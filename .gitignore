@@ -5,6 +5,7 @@ target/
 !**/src/test/**
 
 node_modules/**
+todo.db.*
 
 ### STS ###
 .apt_generated
